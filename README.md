@@ -7,6 +7,10 @@ Please sign up for this list to get invites to the online sessions or other upda
 
 https://groups.google.com/forum/#!forum/rchain-collaborative-learning/join
 
+## [Recorded Sessions](https://www.youtube.com/watch?v=WO8rGA8AjD0&index=1&list=PL4WLgebOMwp04qr4mLKmKv90c9gLsDa21)
+
+https://www.youtube.com/watch?v=WO8rGA8AjD0&index=1&list=PL4WLgebOMwp04qr4mLKmKv90c9gLsDa21
+
 ## Repositories
 The individual repositories roughly correspond to "courses" and each have links to collected materials and recorded sessions.
 
