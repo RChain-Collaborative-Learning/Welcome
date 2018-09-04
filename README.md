@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=WO8rGA8AjD0&index=1&list=PL4WLgebOMwp04qr4mLKmKv
 The individual repositories roughly correspond to "courses" and each have links to collected materials and recorded sessions.
 
 ### [Introduction to the Design of Computational Calculi](https://github.com/RChain-Collaborative-Learning/Introduction-to-the-Design-of-Computational-Calculi)
-May 2018 - Present: the goal of this course led by Greg is to: introduce the Rho Calculus with spacial/location components included, and have the participants be able to design their own computational calculi. The sessions led by Greg are closed to limited participation. RChain Collaborative Learning plans to review these sessions and extend the material presented.
+May 2018 - August 2018: the goal of this course led by Greg is to: introduce the Rho Calculus with spacial/location components included, and have the participants be able to design their own computational calculi. The sessions led by Greg are closed to limited participation. RChain Collaborative Learning plans to review these sessions and extend the material presented.
 
 ### [PiCalc-to-Rholang](https://github.com/RChain-Collaborative-Learning/PiCalc-to-Rholang)
 April 2018 - May 2018: This repository records the initial effort of the group to study Rholang and it's roots in the Pi and Rho Calculus and prepare for the [Introduction to the Design of Computational Calculi](https://github.com/RChain-Collaborative-Learning/Introduction-to-the-Design-of-Computational-Calculi)
