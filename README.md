@@ -19,3 +19,7 @@ May 2018 - August 2018: the goal of this course led by Greg is to: introduce the
 
 ### [PiCalc-to-Rholang](https://github.com/RChain-Collaborative-Learning/PiCalc-to-Rholang)
 April 2018 - May 2018: This repository records the initial effort of the group to study Rholang and it's roots in the Pi and Rho Calculus and prepare for the [Introduction to the Design of Computational Calculi](https://github.com/RChain-Collaborative-Learning/Introduction-to-the-Design-of-Computational-Calculi)
+
+### Google Docs Repository
+Here's a repository suitable for transcripts, viewpoints and so on: 
+https://drive.google.com/drive/folders/1KBRhUlmNIRcPU7RtQYZ5FQs8VqcvZJN3
